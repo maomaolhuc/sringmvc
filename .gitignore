@@ -1,0 +1,4 @@
+# Project exclude paths
+/springmvc01/target/
+/springmvc02/target/
+/springmvc03/target/
